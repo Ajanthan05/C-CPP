@@ -1,0 +1,5 @@
+Enable ssh
+
+ssh-keygen -t rsa -b 4096 -C "t.rajah05@gmail.com"
+
+clip < ~/.ssh/id_rsa.pub
